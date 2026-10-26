@@ -1,2 +1,2 @@
 #My Git Journey
-I'm learningn Git and GitHub.
+I'm learning Git and GitHub.
