@@ -1,2 +1,3 @@
 #My Git Journey
-I'm learning Git and GitHub.
+##About Me
+I enjoy new things
